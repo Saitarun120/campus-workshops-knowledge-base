@@ -1,6 +1,8 @@
 # campus-workshops-knowledge-base
 
 Knowledge Base for Campus Workshops
+bnm institute of technology
+
 
 # What we'll be doing today?
 
